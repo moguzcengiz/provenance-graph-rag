@@ -1,0 +1,67 @@
+[
+  {
+    "short_id": "S1",
+    "graph": "acme-official-about",
+    "file": "acme_official_about.md",
+    "format": "text",
+    "source_uri": "https://acme-ai.example/about",
+    "title": "About Acme AI",
+    "publisher": "Acme AI GmbH",
+    "publisher_uri": "https://acme-ai.example/",
+    "source_type": "OfficialWebsite",
+    "published": "2024-03-01",
+    "retrieved": "2026-09-01"
+  },
+  {
+    "short_id": "S2",
+    "graph": "techherald-acme-moves-to-munich",
+    "file": "techherald_acme_moves.md",
+    "format": "text",
+    "source_uri": "https://techherald.example/2025/06/acme-ai-moves-to-munich",
+    "title": "Acme AI relocates its headquarters to Munich",
+    "publisher": "Tech Herald",
+    "publisher_uri": "https://techherald.example/",
+    "source_type": "NewsArticle",
+    "published": "2025-06-15",
+    "retrieved": "2026-09-01"
+  },
+  {
+    "short_id": "S3",
+    "graph": "profile-alice-schmidt",
+    "file": "alice_schmidt_profile.md",
+    "format": "text",
+    "source_uri": "https://pronet.example/in/alice-schmidt",
+    "title": "Alice Schmidt - Professional Profile",
+    "publisher": "ProNet",
+    "publisher_uri": "https://pronet.example/",
+    "source_type": "EmployeeProfile",
+    "published": "2025-02-10",
+    "retrieved": "2026-09-01"
+  },
+  {
+    "short_id": "S4",
+    "graph": "legacy-crm-dump-2021",
+    "file": "legacy_crm_dump_2021.csv",
+    "format": "csv",
+    "source_uri": "file:///archive/crm/export-2021-11-30.csv",
+    "title": "Legacy CRM export (companies & contacts)",
+    "publisher": "Internal CRM (legacy system)",
+    "publisher_uri": "urn:example:system:legacy-crm",
+    "source_type": "DatabaseDump",
+    "published": "2021-11-30",
+    "retrieved": "2022-01-10"
+  },
+  {
+    "short_id": "S5",
+    "graph": "open-gazetteer-cities",
+    "file": "open_gazetteer_cities.md",
+    "format": "text",
+    "source_uri": "https://gazetteer.example/cities/de",
+    "title": "Open Gazetteer - German cities",
+    "publisher": "Open Gazetteer Project",
+    "publisher_uri": "https://gazetteer.example/",
+    "source_type": "ReferenceDataset",
+    "published": "2023-01-15",
+    "retrieved": "2026-09-01"
+  }
+]

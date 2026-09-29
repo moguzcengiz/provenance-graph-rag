@@ -1,0 +1,10 @@
+entity,attribute,value,last_updated
+Acme AI,hq_city,Berlin,2021-11-30
+Acme AI,ceo,Carol Diaz,2021-11-30
+Acme AI,employees,95,2021-11-30
+Acme AI,founded,2019,2021-11-30
+Alice Schmidt,employer,Acme AI,2021-11-30
+Alice Schmidt,job_title,Research Engineer,2021-11-30
+Bob Chen,employer,Acme AI,2021-11-30
+Carol Diaz,employer,Acme AI,2021-11-30
+Acme AI,fax_number,+49 30 0000000,2021-11-30

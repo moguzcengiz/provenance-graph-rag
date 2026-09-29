@@ -1,0 +1,16 @@
+services:
+  app:
+    build: .
+    image: provrag:latest
+    ports:
+      - "8501:8501"
+    env_file:
+      - path: .env        # TOGETHER_API_KEY=... (optional; app works without it)
+        required: false
+    restart: unless-stopped
+
+  tests:
+    image: provrag:latest
+    build: .
+    command: ["pytest", "-q"]
+    profiles: ["test"]

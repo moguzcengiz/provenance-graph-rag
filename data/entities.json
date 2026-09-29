@@ -1,0 +1,9 @@
+[
+  {"key": "AliceSchmidt", "label": "Alice Schmidt", "type": "Person", "aliases": ["Alice Schmidt", "Alice", "A. Schmidt"]},
+  {"key": "BobChen", "label": "Bob Chen", "type": "Person", "aliases": ["Bob Chen", "Bob"]},
+  {"key": "CarolDiaz", "label": "Carol Diaz", "type": "Person", "aliases": ["Carol Diaz", "Carol"]},
+  {"key": "AcmeAI", "label": "Acme AI", "type": "Organization", "aliases": ["Acme AI", "AcmeAI", "Acme"]},
+  {"key": "Berlin", "label": "Berlin", "type": "City", "aliases": ["Berlin"]},
+  {"key": "Munich", "label": "Munich", "type": "City", "aliases": ["Munich", "München", "Muenchen"]},
+  {"key": "Germany", "label": "Germany", "type": "Country", "aliases": ["Germany", "Deutschland"]}
+]
